@@ -6,7 +6,7 @@ In my toolbox I have NodeJS, Python, PHP and Java.
 
 Currently I'm working on a research *Master's* degree in Computer Science focused on immersive technologies at [The University of British Columbia (UBC)](https://ubc.ca).  
 
-I pick up and learn new technologies fast, follow the best practices and sometimes I stay awake at night thinking about that pesky bug thats been bothering me all day.
+I pick up and learn new technologies fast, follow the best practices and am passionate about user-centric projects.
 
 [ ![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/sohanchy/) 
 
