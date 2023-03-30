@@ -1,10 +1,10 @@
 ## Hi, I'm Sohan
-I'm a Software Engineer from Bangladesh; living in British Columbia, Canada. 
+I'm a Software Engineer currently living in British Columbia, Canada. 
 
 If you imagine web apps as cars, I'm the guy that works on the stuff thats under the hood (i.e. the backend). 
 In my toolbox I have NodeJS, Python, PHP and Java. 
 
-Currently I'm working on a research *Master's* degree in Computer Science focused on immersive technologies at [The University of British Columbia (UBC)](https://ubc.ca).  
+Currently I'm finishing (Expected Grad: April 2023) a research *Master's* degree in Computer Science focused on immersive technologies at [The University of British Columbia (UBC)](https://ubc.ca).  
 
 I pick up and learn new technologies fast, follow the best practices and am passionate about user-centric projects.
 
